@@ -1,0 +1,36 @@
+.container{
+    margin-top: 1.5rem;
+}
+.card-header{
+    padding: 1rem;
+}
+.card{
+    box-shadow: 5px 5px lightgray;
+}
+.form-control{
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.form-control input{
+    padding: 0.5rem 1rem;
+    width: 100%;
+}
+#submit-but{
+    margin-top: 1.5rem;
+    padding: 0.5rem 2rem;
+    font-size: 16px;
+    font-family:'Roboto', sans-serif ;
+}
+.card-body{
+    padding: 2rem;
+}
+.list-group{
+    list-style: none;
+}
+#remove-all-but{
+    margin-top: 1.5rem;
+}
+h5{
+    margin-bottom: 2rem;
+}
+    
